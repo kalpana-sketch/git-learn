@@ -1,0 +1,2 @@
+this is file in version 1.
+I want this to go to commit 2.
